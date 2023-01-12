@@ -2,7 +2,7 @@
 
 <!-- Buy me a coffee if you use my work https://ko-fi.com/nturaga -->
 
-[![nturaga's github stats](https://github-readme-stats.vercel.app/api?username=nturaga&show_icons=true&theme=vision-friendly-dark&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![Nitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=nturaga)](https://github.com/nturaga/github-readme-stats)
 
 <!--
 **nturaga/nturaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
